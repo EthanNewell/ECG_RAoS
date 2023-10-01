@@ -17,5 +17,5 @@ Mo - mode - most frequent R-R interval value
 AMo - mode amplitude - % of the intervals corresponding to Mode  
 VR - variational range - the difference between min and max R-R intervals
 
-## The second part is neural networkы training 
-in progress now 
+## The second part is neural network training 
+in progress 
