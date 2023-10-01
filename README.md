@@ -9,7 +9,7 @@
 6) Find the most frequent value of R-R intervals
 7) Calculate stress index according to Baevsky index 
 
->[!info] Stress index formula
+>Stress index formula
 >si = AMo / (2 * VR * Mo)
 where  
 R-R interval - the time delay between consecutive heartbeats (assumed to be the inverse value of the bpm)  
